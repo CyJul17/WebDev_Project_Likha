@@ -2,7 +2,7 @@
 
 **BIWOMM**
 
-## Members
+## Memberss
 
 * Abon, Pocholo James
 * Battung, Shawn Andrieve
