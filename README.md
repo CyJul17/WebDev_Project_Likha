@@ -1,4 +1,4 @@
-# Likha – Website Project Proposal
+# Likha – Website Project
 
 **BIWOMM**
 
